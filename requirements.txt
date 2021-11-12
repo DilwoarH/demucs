@@ -1,6 +1,6 @@
 # please make sure you have already a pytorch install that is cuda enabled!
 dora-search
-diffq>=0.2.1
+diffq>=0.2.0
 flake8
 hydra-colorlog>=1.1
 hydra-core>=1.1
